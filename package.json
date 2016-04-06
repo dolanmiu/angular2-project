@@ -1,0 +1,11 @@
+{
+  "name": "angular2-project",
+  "version": "0.0.0",
+  "description": "Test Angular 2 project I am working on",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Dolan Miu",
+  "license": "ISC"
+}
