@@ -7,5 +7,17 @@
     "test": "npm test"
   },
   "author": "Dolan Miu",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolanmiu/angular2-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dolanmiu/angular2-project/issues"
+  },
+  "homepage": "https://github.com/dolanmiu/angular2-project#readme"
 }
